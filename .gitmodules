@@ -1,3 +1,6 @@
 [submodule "db"]
-	path = db
-	url = https://github.com/Sons-of-Kareah/the_argo_guy_db
+path = db
+url = https://github.com/Sons-of-Kareah/the_argo_guy_db
+[submodule "bot"]
+path = bot
+url = https://github.com/Sons-of-Kareah/the_argo_guy_bot
