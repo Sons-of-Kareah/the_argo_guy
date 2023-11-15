@@ -1,0 +1,3 @@
+[submodule "db"]
+	path = db
+	url = https://github.com/Sons-of-Kareah/the_argo_guy_db
